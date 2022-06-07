@@ -1,0 +1,13 @@
+schemaVersion: 2.2.0
+metadata:
+  name: hello-world
+  projectType: hello-world
+  version: 0.0.1
+components:
+  - name: outerloop-build
+    image:
+      imageName: hellow-world:latest
+      dockerfile:
+        uri: docker/Dockerfile
+        buildContext: .
+        rootRequired: false

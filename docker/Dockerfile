@@ -1,0 +1,1 @@
+FROM quay.io/redhat-appstudio-qe/busybox-loop:latest
