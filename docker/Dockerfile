@@ -1,1 +1,1 @@
-FROM quay.io/redhat-appstudio-qe/busybox-loop:latest
+FROM quay.io/jitesoft/nginx:latest
