@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-uxgo update
+test PaC branch appstudio-test-component-pac-sueo update
