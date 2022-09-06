@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-xfnh update
+test PaC branch appstudio-test-component-pac-qmot update
