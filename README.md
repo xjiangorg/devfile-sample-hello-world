@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-oadd update
+test PaC branch appstudio-test-component-pac-lprw update
