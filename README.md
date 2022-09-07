@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-khsx update
+test PaC branch appstudio-test-component-pac-bxms update
