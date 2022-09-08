@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-sdyc update
+test PaC branch appstudio-test-component-pac-uigk update
