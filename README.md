@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-icqo update
+test PaC branch appstudio-test-component-pac-irzy update
