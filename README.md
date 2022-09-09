@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-oowi update
+test PaC branch appstudio-test-component-pac-pqap update
