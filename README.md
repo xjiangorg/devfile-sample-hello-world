@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-okrx update
+test PaC branch appstudio-test-component-pac-tmka update
