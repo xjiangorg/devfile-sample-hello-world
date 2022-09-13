@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-miaz update
+test PaC branch appstudio-test-component-pac-boat update
