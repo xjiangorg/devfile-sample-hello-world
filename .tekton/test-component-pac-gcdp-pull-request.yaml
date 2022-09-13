@@ -40,3 +40,4 @@ spec:
     secret:
       secretName: redhat-appstudio-registry-pull-secret
 status: {}
+
