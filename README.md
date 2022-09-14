@@ -1,1 +1,1 @@
-test PaC branch appstudio-test-component-pac-avrr update
+test PaC branch appstudio-test-component-pac-hrnd update
